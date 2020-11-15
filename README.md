@@ -23,3 +23,6 @@ Open your terminal and go to the root folder of this project and execute:
 
 `java -jar build/libs/accounts-0.0.1-SNAPSHOT.jar `
 
+after the application loads it can be tested at this URL:
+
+http://localhost:8080/api/v1/accounts
